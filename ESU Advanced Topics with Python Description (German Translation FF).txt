@@ -1,0 +1,43 @@
+﻿Advanced Topics in Humanities Programming with Python
+
+Digital humanists use digital methods to help them answer research questions in the humanities.  The vast majority of digital humanists rely on existing tools to perform the necessary digital operations on their data.  We find this, however, to be both severely limiting for the scholar and harmful for the discipline of digital humanities.  In this course, we will explore one avenue to DH liberation and empowerment: writing your own tools.  The participants will use the scripting language Python to explore their data using simple yet powerful scripts to harness the potential of existing algorithms and techniques.  The first week will be spent learning to apply the most popular Python machine-learning package sklearn to tasks of categorization, clustering, and recognition.  The second week will focus on using the numpy package to represent large textual corpora as matrices, on extracting semantic information from these corpora, and then on comparing this information between and among corpora.
+
+Both parts of this workshop assume a familiarity with Python or some similar object-oriented programming language.  There will be no introduction to the basics of Python such as object types, loops, and conditions.  Instead, the participants will immediately start learning the theoretical basics of the methods and applying them by writing their own scripts for their own data.
+
+Week 1: Machine Learning
+Day 1: What is machine learning?
+Day 2: Supervised techniques and data classification
+Day 3: Unsupervised techniques and data clustering
+Day 4: “Deep Learning” and data recognition
+Day 5: Deeper Learning
+Week 2: Automatic Semantic Information Extraction
+Day 1: Crash course in distributional semantics, matrices, and linear algebra
+Day 2: Calculating and measuring co-occurrence
+Day 3: Comparing words to each other
+Day 4: Comparing corpora to each other
+Day 5: Exploring the possibilities!
+
+*
+
+[rough translation, FF, Passau, 27.03.2014]
+
+Geisteswissenschaftliche Programmierung mit Python (für Fortgeschrittene)
+
+Die Digital Humanities bieten digitale Methoden, die Geisteswissenschaftlern dabei helfen können, ihre Forschungsfragen zu beantworten. Die Mehrheit der Digital Humanists verlässt sich dabei auf bereits existierende Tools, um ihre Daten digital zu verarbeiten. Das jedoch schränkt die Forschungsmöglichkeiten stark ein und ist auch nachteilig für die Entwicklung der Digital Humanities als Disziplin. Dieser Kurs sollen Digital Humanists unterstützen, indem wir den Teilnehmern dabei helfen, eigene Tools schreiben. Die Teilnehmer werden in der Skriptsprache Python programmieren, um auf diese Weise ihre Daten beforschen zu können und dabei mit Hilfe von einfachen, aber leistungsfähigen Skripten das Potenzial von schon vorhandenen Algorithmen und Techniken auszuschöpfen. In der ersten Woche werden wir lernen, wie man das populärste Python-Machine-Learning-Package sklearn dafür benutzt, um Aufgaben wie Kategorisierung, Clustern und (Muster-)erkennung angehen zu können. In der zweiten Woche wird es um das NumPy-Package gehen, mit dem große Textkorpora effizient als Matrizen dargestellt werden können, außerdem um die Gewinnung semantischer Informationen aus diesen Korpora und schließlich auch darum, diese Informationen in und zwischen Korpora zu vergleichen.
+
+In beiden Teilen des Workshops wird die Vertrautheit mit Python oder einer ähnlichen objektorientierten Programmiersprache vorausgesetzt. Es wird keine Einführung in die Grundlagen von Python geben, etwa in Objekttypen, Schleifen und Bedingungen. Stattdessen werden die Teilnehmer von Beginn an mit den theoretischen Grundlagen der verschiedenen Methoden und deren Anwendung bekannt gemacht, indem sie eigene Skripte zur Verarbeitung ihrer Daten schreiben.
+
+Woche 1: Machine Learning
+Tag 1: Was ist maschinelles Lernen?
+Tag 2: Betreute Techniken und Datenklassifizierung
+Tag 3: Automatisierungstechniken und Clustern von Daten
+Tag 4: "Deep Learning" und Data Recognition
+Tag 5: Deeper Learning
+Woche 2: Automatische Gewinnung semantischer Informationen
+Tag 1: Crashkurs in verteilter Semantik, Matrizen und linearer Algebra
+Tag 2: Berechnung und Messung von Kookkurrenzen (gleichzeitigem Auftreten)
+Tag 3: Vergleich von Wörtern
+Tag 4: Vergleich verschiedener Korpora
+Tag 5: Die Welt der Möglichkeiten betreten!
+
+*

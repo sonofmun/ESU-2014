@@ -1,0 +1,44 @@
+Schedule for ESU Summer School, week 2:
+
+Mon, July 28
+1b - Modelling your data - Working with Pandas
+  - What is a Pandas DataFrame?
+  - How do you create one?
+    - Empty
+    - From a dictionary
+    - From a list of arrays
+  - What can you do with them?
+    - max() and min()
+    - mean() and other statistics
+    - join() etc.
+2b - Calculating your data - Vectorization
+  - What is Vectorization?
+  - Why would I want to do it?
+    - Python and C
+  - Practice, practice, practice
+
+T, July 29
+3b - Distributional Semantics and Counting Co-occurrents
+  - Basic concept of distributional semantics
+  - Which window size?
+  - Let's count!
+  - I need an IPython notebook here where they can test their counting algorithms on a short text.
+4b - Calculating statistical significance
+  - LL formula with basic explanation
+  - How to count
+  - How to vectorize!!
+  - Implementation
+
+W, July 30
+5b - Calculating similarity
+  - Implementing our own CS function
+  - Comparison with sklearn function
+6b - Exporting out data for Gephi and visualizing your results
+
+R, July 31
+7b - Experimentation with Gephi
+8b - Working on your Presentation
+
+F, August 1
+Presentation of results
+Presentation of results
